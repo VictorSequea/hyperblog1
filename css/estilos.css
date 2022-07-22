@@ -38,14 +38,15 @@ padding: 0;
 {
     font-size: 20px;
 }
-#"footer"
+
+#post
+{
+    padding: 1em;
+}
+#footer
 {
  background: #777;
  color: white;
  texto-align: center;
  padding: 0.5em;
-}
-#post
-{
-    padding: 1em;
 }
